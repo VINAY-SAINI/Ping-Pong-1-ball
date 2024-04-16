@@ -1,4 +1,4 @@
-# Assignment 1:
+Ping Pong One Ball 
 Pong is a table tennis arcade sports video game with simple 2D graphics created by Atari . This was one of the first arcade video games.
 - [x] Play With CPU
 - [x] Player Move With Up & W to UP
